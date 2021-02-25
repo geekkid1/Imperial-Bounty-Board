@@ -13,4 +13,26 @@ RODIAN STEW
     > A Rodian by the name of Leebo has recently been marked for death by Grogdana the Hutt. Taking the bounty alive will result in a bonus, but only Leebo's head is required for completion of the contract.
     & Payment: ¥1,100 credits, plus ¥300 if the target is brought in alive
   TAGS : bounty, assassination
+
+STOP THAT FREIGHTER
+  AUTH : The Pentastar Alignment 
+  QOTE
+    > It’s not uncommon that the Empire would place bounties on the side for smaller organizations and syndicates to fight over. This one however is placed on a Light Freighter rather than your typical criminal. The bounty itself simply calls for the navicomupter, rather than the ship.  
+    & Payment: ¥1200 credits, plus ¥300 for the whole ship.
+  TAGS : space, bounty, retrieval
+
+SPECIAL DELIVERY
+  AUTH : The Hutt Crime Syndicate 
+  QOTE
+    > Spacers make excellent smugglers, but on occasion that delivery of goods doesn’t arrive. On occasion a Hutt would like to send a message to their petty smugglers and their peers. Track down the Smuggler Joss Lipo and make a grave example.
+    & Payment: ¥890 credits, plus ¥110 if you manage to break all of his bones before delivery..
+  TAGS : space, bounty, delivery, enforcement
+
+ Bloodstain Diplomacy
+  AUTH : The Pentastar Alignment 
+  QOTE
+    > If you’re a New Republic Admiral about to meet with a BlasTech representative with the topic of selling arms to the Republic, what would you wear? Bloodstains, that’s what. Hope someone wouldn’t mind pretending to be an BlasTech employee while the Sniper gets in position-
+    & Payment: ¥1500 credits, plus ¥500 for a clean body disposal.
+  TAGS : bounty, assassination 
+
 `
