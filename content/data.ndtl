@@ -22,17 +22,17 @@ STOP THAT FREIGHTER
   TAGS : space, bounty, retrieval
 
 SPECIAL DELIVERY
-  AUTH : The Hutt Crime Syndicate 
+  AUTH : The Hutt Crime Syndicate president 
   QOTE
     > Spacers make excellent smugglers, but on occasion that delivery of goods doesn’t arrive. On occasion a Hutt would like to send a message to their petty smugglers and their peers. Track down the Smuggler Joss Lipo and make a grave example.
     & Payment: ¥890 credits, plus ¥110 if you manage to break all of his bones before delivery..
   TAGS : space, bounty, delivery, enforcement
 
- Bloodstain Diplomacy
-  AUTH : The Pentastar Alignment 
-  QOTE
-    > If you’re a New Republic Admiral about to meet with a BlasTech representative with the topic of selling arms to the Republic, what would you wear? Bloodstains, that’s what. Hope someone wouldn’t mind pretending to be an BlasTech employee while the Sniper gets in position-
-    & Payment: ¥1500 credits, plus ¥500 for a clean body disposal.
-  TAGS : bounty, assassination 
+ BLOODSTAIN DIPLOMACY
+   AUTH : The Pentastar Alignment 
+   QOTE
+     > If you’re a New Republic Admiral about to meet with a BlasTech representative with the topic of selling arms to the Republic, what would you wear? Bloodstains, that’s what. Hope someone wouldn’t mind pretending to be an BlasTech employee while the Sniper gets in position-
+     & Payment: ¥1500 credits, plus ¥500 for a clean body disposal.
+   TAGS : bounty, assassination 
 
 `
